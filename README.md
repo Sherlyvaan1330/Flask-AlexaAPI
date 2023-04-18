@@ -21,7 +21,7 @@ Alexa Web Application using Natural Language Processing.
      1. Click on run button in the IDE or
      2. Type --> python pythonfilename(main.py) in the terminal.
 8. Open Web browser and type 127.0.0.1:5000 in the url bar.
-9. Click on the Microphone button and start speaking.
+9. Click on the Microphone button and start speaking(Use headphone).
      1. Before asking any question or telling some answer mention 'ALEXA' only then the BOT can         recognize.
      2. Click on Microphone for each use-case.
      3. If Bot finds 'Play a song' in the sentence user tell it opens you tube and plays a               random song automatically.
